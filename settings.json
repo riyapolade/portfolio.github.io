@@ -1,0 +1,16 @@
+{
+    "yaml.schemas": {
+        "file:///c%3A/Users/Admin/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "atlascode.jira.jqlList": [
+        {
+            "id": "9ad39b5a-74b7-486c-8ec9-151513e49a8b",
+            "enabled": true,
+            "name": "My customproduct Issues",
+            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+            "siteId": "bc101928-c166-475b-9134-167aaaa2ba43",
+            "monitor": true
+        }
+    ]
+}
