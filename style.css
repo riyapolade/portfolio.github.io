@@ -12,13 +12,13 @@
 }
 
 :root{
-  --main-color: #ffa724;
+  --main-color: #24ffed;
   --body-color: #090a1a;
-  --container-color:#171b3c;
-  --heading-color: #222232;
-  --box-color:#0d0f26;
+  --container-color:#353c66;
+  --heading-color: #2798ac;
+  --box-color:#1a1a35;
   --bg-color: #fff;
-  --btn-color:rgb(243, 152, 33);
+  --btn-color:rgb(33, 236, 243);
 }
 
 body{
